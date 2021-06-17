@@ -1,4 +1,4 @@
-#include <studio.h>
+#include <stdio.h>
 /* project 0x00 c- hello world task 4 */
 int main(void)
 {
