@@ -1,3 +1,8 @@
 #include <studio.h>
 /* project 0x00 c- hello world task 4 */
-init main(void)
+int main(void)
+{
+        puts("\"Programming is like building a multilingual puzzle");
+        return (0);
+}
+~
