@@ -1,5 +1,11 @@
 #include <stdio.h>
-/* project 0x00 c- hello world task 4 */
+
+/**
+ * main - is the entry point for c 
+ *
+ * puts - instead of printf 
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
         puts("\"Programming is like building a multilingual puzzle");
