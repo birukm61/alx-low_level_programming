@@ -23,11 +23,6 @@ int main(void)
         {
                 printf("%d is zero\n", n);
         }
-        else
-        {
-                printf("ERROR!, invalid number");
-        }
-
         return (0);
 }
 
