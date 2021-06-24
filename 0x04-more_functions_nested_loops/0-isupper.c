@@ -1,5 +1,5 @@
 #include "holberton.h"
-
+#include <stdio.h>
 /**
  *_isupper - checks if the char is upper case or ot 
  *@c: character
