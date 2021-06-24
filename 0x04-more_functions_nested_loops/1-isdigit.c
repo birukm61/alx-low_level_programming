@@ -1,18 +1,12 @@
 #include "holberton.h"
 
 /**
- *_isdigit - return for uppercase
- *@c: parameter integer
- *Return: 1 or 0
+ * _isdigit - checks for digit.
+ *@c: the character to be checked.
+ *Return: 1 if digit 0 otherwise.
  */
+
 int _isdigit(int c)
 {
-    if (c >= 0 && c <= 9) 
-    {
-        return (1);
-    }
-    else
-    {
-        return (0);
-    }
+	return (c >= 48 && c <= 57);
 }
