@@ -1,4 +1,4 @@
-#include "holberton.c"
+#include "holberton.h"
 
 /**
  *mul - multiple parameters
