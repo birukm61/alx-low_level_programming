@@ -10,8 +10,8 @@
  */
 void swap_int(int *a, int *b)
 {
-  const int p = *a
-  *a = *b
-  *b = p
+  const int p = *a;
+  *a = *b;
+  *b = p;
 }    
  
